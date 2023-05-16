@@ -1,1 +1,1 @@
-Description about Grigora X is comming soon.
+Description about Grigora X is coming soon.
