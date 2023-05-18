@@ -1,0 +1,10 @@
+<!--Design improvements are welcome. Especially improvements to the accuracy of the design.-->
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <path style="opacity:1;fill:none;stroke:#fff;stroke-width:50;stroke-linecap:square;fill-opacity:1" d="M334.1 467.01a225 225 0 0 1-251.617-67.774 225 225 0 0 1-18.874-259.9A225 225 0 0 1 302.795 35.92a225 225 0 0 1 176.419 191.785"/>
+    <path style="opacity:1;fill:none;stroke:#fff;stroke-width:50;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" d="M477.253 296.892a225 225 0 0 1-74.27 129.463"/>
+    <path style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:#fff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" d="m438.812 284.549-.833.174c.29.15.551.137.81.115z" transform="matrix(60.59259 1.21769 -1.25584 68.09988 -25723.331 -19654.832)"/>
+    <path style="opacity:1;fill:none;stroke:#fff;stroke-width:50;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" d="M391.343 320.67a150 150 0 0 1-154.503 84.101 150 150 0 0 1-128.152-120.503 150 150 0 0 1 74.445-159.38 150 150 0 0 1 174.659 20.938"/>
+    <path style="opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" d="M379.628 242.499h45.05v66.39h-45.05z"/>
+    <path style="opacity:1;fill:#fff;stroke-width:0;stroke-linecap:square;paint-order:stroke fill markers" d="M272.176 242.499h115.782v44.065H276.401l1.305-26.527z"/>
+    <path style="opacity:1;fill:#fff;stroke-width:62.3475;stroke-linecap:square;paint-order:stroke fill markers" transform="rotate(-47.185 477.54 294.383) scale(.80196)" d="m377.119 438.247-9.091-2.047 16.035-59.934c36.641 24.25 36.898 24.324-6.944 61.981z"/>
+</svg>

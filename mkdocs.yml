@@ -1,2 +1,10 @@
 site_name: Grigora X
-theme: material
+repo_name: Roo-FS/Grigora-X
+repo_url: https://github.com/Roo-FS/Grigora-X
+
+theme: 
+  name: material
+  logo: assets/ggx-icon.svg
+  favicon: assets/ggx-icon.svg
+  icon:
+    repo: octicons/mark-github-16
