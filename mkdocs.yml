@@ -6,5 +6,13 @@ theme:
   name: material
   logo: assets/ggx-icon.svg
   favicon: assets/ggx-icon.svg
+  palette:
+    primary: custom
   icon:
     repo: octicons/mark-github-16
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
